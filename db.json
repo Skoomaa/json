@@ -1,0 +1,23 @@
+{
+  "Data": [
+    {
+      "id": 1,
+      "name": "Dépanneur"
+      "items":[
+                {"id":2, "name": "Pepsi", "price": 2.5},
+                {"id":3, "name": "Coke", "price": 2.5}
+            ]
+      
+    },
+    {
+      "id": 4,
+      "name": "Épicerie"
+      "items":[
+                {"id":5, "name": "Viande", "price": 2.5},
+                {"id":6, "name": "Légume", "price": 2.5}
+            ]
+      
+    }
+  ]
+
+}
