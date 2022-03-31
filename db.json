@@ -1,12 +1,11 @@
 {
   "commands":[
   {
-    "userId": 1,
     "id": 1,
     "client": "Felix",
     "description" "Livraison d'une caisse de pepsi à une soirée"
+  },
   {
-    "userId": 1,
     "id": 2,
     "client": "Seynabou",
     "description": "Livraison de biscuit frais du subways à domicile"
